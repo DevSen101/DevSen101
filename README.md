@@ -4,7 +4,7 @@ Hi 👋, I'm Dev Kumar Sen
 </h1>
 
 <h3 align="center">
-Full Stack MERN Developer | DevOps Engineer | Cybersecurity Enthusiast
+Full Stack Developer | DevOps Engineer | Cybersecurity Enthusiast
 </h3>
 
 ---
