@@ -4,24 +4,25 @@ Hi 👋, I'm Dev Kumar Sen
 </h1>
 
 <h3 align="center">
-Full Stack Developer | DevOps Engineer | Cybersecurity Enthusiast
+MERN | AI/ML Engineer | Cybersecurity Expert | Data Scientist/Analyst
 </h3>
 
 ---
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
 
 ## 👨‍💻 About Me
+* **I am an AI & Cybersecurity Engineer specializing in Artificial Intelligence, Machine Learning, Generative AI, and Agentic AI systems, with a strong focus on cyber defense, digital forensics, OSINT, and cyber awareness. I work on designing AI-driven security solutions, LLM-powered automation, and intelligent threat detection systems to combat cybercrime and digital fraud.**
 
-I am a **Full Stack MERN Developer and DevOps Engineer** with hands-on experience in **building, deploying, and maintaining production-ready web applications**. I work across **frontend, backend, cloud infrastructure, and CI/CD pipelines**, with a strong focus on **scalability, security, automation, and performance**.
+* **My expertise includes digital and mobile forensics, incident response, OSINT-based intelligence gathering, malware and fraud analysis, and AI-assisted cyber investigations. I actively explore LLM architectures, GenAI pipelines, autonomous AI agents, and their application in security operations, investigations, and cyber awareness platforms.**
 
-I am passionate about **secure system design, DevOps automation, cloud-native architectures, and bug bounty hunting**, and I continuously upskill myself in **cybersecurity, data science, and AI-driven systems**.
+* **I also possess a solid foundation in full-stack development, cloud engineering, and DevOps, which I leverage to build and deploy scalable, secure, production-grade AI and cybersecurity platforms.**
+.
 
 - 🌍 Based in **India**
 - 🖥️ Portfolio: [devsen.netlify.app](http://devsen.netlify.app)
 - ✉️ Contact: **devksen.personal@gmail.com**
-- 🧠 Currently learning **Python (DS/DA), Deep Learning models, Cybersecurity (CEH, Digital Forensics, OSINT)**
-- 🐞 Actively practicing **Bug Bounty Hunting**
-- 🤝 Open to collaborating on **Full Stack Apps, DevOps Automation, Cloud Deployments & Security Research**
+- 🧠 Actively gaining knowledge of  **Python (DS/DA), Deep Learning models, Cybersecurity (CEH, Digital Forensics, OSINT), Bug Bounty Hunting**
+- 🤝 Open to collaborating on **Full Stack Apps, DevOps Automation, Cloud Deployments & Security Research, Digital Forensics, Vulnerbility analysis**
 
 ---
 
